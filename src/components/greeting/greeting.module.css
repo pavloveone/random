@@ -1,0 +1,21 @@
+.title {
+    padding-top: 40px;
+    margin: 0 auto;
+    width: 60%;
+    color: #2b2a2a;
+    font-family: 'Beer money';
+    font-size: 52px;
+}
+
+.span {
+    writing-mode: vertical-rl;
+}
+
+.link {
+    text-decoration: none;
+    color: blue;
+}
+
+.link:hover {
+    color: yellow;
+}
